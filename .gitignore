@@ -11,3 +11,6 @@
 *.lai
 *.la
 *.a
+
+# HEALPix
+Healpix_2.15a/
